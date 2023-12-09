@@ -144,8 +144,9 @@ curl http://10.111.177.150/repo/
 <head><title>Index of /repo/</title></head>
 <body>
 <h1>Index of /repo/</h1><hr><pre><a href="../">../</a>
-<a href="repodata/">repodata/</a>                                          09-Dec-2023 22:33                   -
-<a href="nginx-1.24.0-2.el8.otus.x86_64.rpm">nginx-1.24.0-2.el8.otus.x86_64.rpm</a>                 09-Dec-2023 22:33             5061896
+<a href="repodata/">repodata/</a>                                          09-Dec-2023 22:49                   -
+<a href="nginx-1.24.0-2.el8.otus.x86_64.rpm">nginx-1.24.0-2.el8.otus.x86_64.rpm</a>                 09-Dec-2023 22:48             5061896
+<a href="nginx-debuginfo-1.24.0-2.el8.otus.x86_64.rpm">nginx-debuginfo-1.24.0-2.el8.otus.x86_64.rpm</a>       09-Dec-2023 22:48             2731624
 <a href="percona-orchestrator-3.2.6-2.el8.x86_64.rpm">percona-orchestrator-3.2.6-2.el8.x86_64.rpm</a>        16-Feb-2022 15:57             5222976
 </pre><hr></body>
 </html>
